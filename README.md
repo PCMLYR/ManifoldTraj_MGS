@@ -1,7 +1,8 @@
 # MGS: Manifold-based task-fMRI activation mapping
 
-This repository contains MATLAB code for computing **MGS** maps from Human Connectome Project (HCP) task fMRI data. The pipeline learns a low-dimensional temporal manifold from group-averaged task BOLD activity, estimates the trajectory distance from task frames to resting-state clusters, and uses this geodesic distance signal to derive vertex-wise task activation maps. GLM scripts are also included for baseline comparison.
+Official implementation of MICCAI'2026 paper “Geometry-Aware Manifold Trajectory Modelingfor Task fMRI Activation Mapping”
 
+This repository contains MATLAB code for computing **MGS** maps from Human Connectome Project (HCP) task fMRI data.
 
 ## Overview
 
