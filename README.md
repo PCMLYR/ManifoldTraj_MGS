@@ -159,5 +159,13 @@ result_GLM/<TASK>/2nd_level/
 The GLM scripts use fixed HCP task timings and SPM's canonical HRF basis. MOTOR produces five movement contrasts: tongue, left hand, right hand, left foot, and right foot. EMOTION produces face and shape contrasts.
 
 ## Citation
-
-Citation information will be added after peer review.
+```bib
+@inproceedings{li2026geometry,
+  title={Geometry-Aware Manifold Trajectory Modeling for Task fMRI Activation Mapping},
+  author={Li, Yueran and Chang, Xinle and Yang, Yang and Zhao, Yu and Su, Jingyong},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={222--231},
+  year={2026},
+  organization={Springer}
+}
+```
